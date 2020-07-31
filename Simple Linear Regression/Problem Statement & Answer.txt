@@ -1,0 +1,48 @@
+Assignment- Simple Linear Regression
+Mahesh Sakharpe
+Batch-WDE19082019
+
+
+1) Calories_consumed-> predict weight gained using calories consumed
+2) Delivery_time -> Predict delivery time using sorting time 
+3) Emp_data -> Build a prediction model for Churn_out_rate 
+4) Salary_hike -> Build a prediction model for Salary_hike
+
+
+Do the necessary transformations for input variables for getting better R^2 value for the model prepared.
+
+Q1- Answer:
+
+                   SLR Model ==> Multiple R-squared:  0.8968,	Adjusted R-squared:  0.8882 
+    
+    Log Transformation Model ==> Multiple R-squared:  0.8776,	Adjusted R-squared:  0.8674 
+    
+    Exp Transformation Model ==> Multiple R-squared:  0.8077,	Adjusted R-squared:  0.7917 
+
+Conclusion ==> Simple Linear Regression Model is better R^2 model 
+
+Q2-Answer
+
+               SLR Model ==> Multiple R-squared:  0.6823,	Adjusted R-squared:  0.6655
+Log Transformation Model ==> Multiple R-squared:  0.7109,	Adjusted R-squared:  0.6957
+Exp Transformation Model ==> Multiple R-squared:  0.6954,	Adjusted R-squared:  0.6794
+2degree Polynomial Model ==> Multiple R-squared:  0.7937,	Adjusted R-squared:  0.7708
+3degree Polynomial Model ==> Multiple R-squared:  0.7976,	Adjusted R-squared:  0.7619
+
+Conclusion ==> Polynomial Model with 2 degree is better R^2 model
+
+Q3-Answer
+
+               SLR Model ==> Multiple R-squared:  0.8312,	Adjusted R-squared:  0.8101 
+Log Transformation Model ==> Multiple R-squared:  0.8486,	Adjusted R-squared:  0.8297 
+Exp Transformation Model ==> Multiple R-squared:  0.8735,	Adjusted R-squared:  0.8577 
+2degree Polynomial Model ==> Multiple R-squared:  0.9836,	Adjusted R-squared:  0.9789 
+
+Conclusion ==> Polynomial Model with 2 degree is better R^2 model
+
+Q4-Answer
+
+               SLR Model ==> Multiple R-squared:  0.957,	Adjusted R-squared:  0.9554 
+Log transformation Model ==> Multiple R-squared:  0.8539,	Adjusted R-squared:  0.8487
+
+Conclusion ==> Simple Linear Regression model is better R^2 model
