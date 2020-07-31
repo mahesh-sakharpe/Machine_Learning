@@ -1,0 +1,11 @@
+      X,     age, yearsmarried,religiousness,  education,  occupation,    rating
+Min.   :   4  ,Min.   :17.50  ,Min.   : 0.125  ,Min.   :1.000  ,Min.   : 9.00  ,Min.   :1.000  ,Min.   :1.000  
+1st Qu.: 528  ,1st Qu.:27.00  ,1st Qu.: 4.000  ,1st Qu.:2.000  ,1st Qu.:14.00  ,1st Qu.:3.000  ,1st Qu.:3.000  
+Median :1009  ,Median :32.00  ,Median : 7.000  ,Median :3.000  ,Median :16.00  ,Median :5.000  ,Median :4.000  
+Mean   :1060  ,Mean   :32.49  ,Mean   : 8.178  ,Mean   :3.116  ,Mean   :16.17  ,Mean   :4.195  ,Mean   :3.932  
+3rd Qu.:1453  ,3rd Qu.:37.00  ,3rd Qu.:15.000  ,3rd Qu.:4.000  ,3rd Qu.:18.00  ,3rd Qu.:6.000  ,3rd Qu.:5.000  
+Max.   :9029  ,Max.   :57.00  ,Max.   :15.000  ,Max.   :5.000  ,Max.   :20.00  ,Max.   :7.000  ,Max.   :5.000  
+,,,,,,
+ EMA,   gender,children,,,,
+no :451  ,female:315  ,no :171  ,,,,
+yes:150  ,male  :286  ,yes:430  ,,,,
